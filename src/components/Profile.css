@@ -1,0 +1,42 @@
+.profile-container{
+    position: relative;
+    width: 1080px;
+    height: 0px;
+}
+
+.profile-pic{
+    position: relative;
+    left: 20px;
+    top: 130px;
+    width: 250px;
+}
+
+.profile-text{
+    position: relative;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.71);
+    left: 270px;
+    bottom: 140px;
+    width: 1250px;
+}
+
+.profile-letters{
+    position: relative;
+    left: 20px;
+    width: 1000px;
+    background-color: rgba(0, 0, 0, 0.477);
+    color: white;
+    font-weight: 75%;
+}
+
+.instagram{
+    color: aliceblue;
+}
+
+.linkedin{
+    color: aliceblue;
+}
+
+.github{
+    color: aliceblue;
+}
