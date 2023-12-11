@@ -25,11 +25,7 @@ function sites(){
                     <img className="links-ex04" src="https://avatars.githubusercontent.com/u/72237205?v=4"></img>
                     </a>
                 </div>
-                <div className="links-cards">
-                    <a href="https://www.mercadolivre.com.br/" target="blank" rel="noreferrer">
-                    <img className="links-ex05" src="https://avatars.githubusercontent.com/u/72237205?v=4"></img>
-                    </a>
-                </div>
+                
                 
             </div>
     )
